@@ -1,0 +1,15 @@
+D:\Program Files (x86)\VSRepos\ModerUI\ModerUI\bin\Debug\ModerUI.exe.config
+D:\Program Files (x86)\VSRepos\ModerUI\ModerUI\bin\Debug\ModerUI.exe
+D:\Program Files (x86)\VSRepos\ModerUI\ModerUI\bin\Debug\ModerUI.pdb
+D:\Program Files (x86)\VSRepos\ModerUI\ModerUI\obj\Debug\ModerUI.csprojAssemblyReference.cache
+D:\Program Files (x86)\VSRepos\ModerUI\ModerUI\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\VSRepos\ModerUI\ModerUI\obj\Debug\App.g.cs
+D:\Program Files (x86)\VSRepos\ModerUI\ModerUI\obj\Debug\ModerUI_MarkupCompile.cache
+D:\Program Files (x86)\VSRepos\ModerUI\ModerUI\obj\Debug\ModerUI_MarkupCompile.lref
+D:\Program Files (x86)\VSRepos\ModerUI\ModerUI\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\VSRepos\ModerUI\ModerUI\obj\Debug\ModerUI.g.resources
+D:\Program Files (x86)\VSRepos\ModerUI\ModerUI\obj\Debug\ModerUI.Properties.Resources.resources
+D:\Program Files (x86)\VSRepos\ModerUI\ModerUI\obj\Debug\ModerUI.csproj.GenerateResource.cache
+D:\Program Files (x86)\VSRepos\ModerUI\ModerUI\obj\Debug\ModerUI.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\VSRepos\ModerUI\ModerUI\obj\Debug\ModerUI.exe
+D:\Program Files (x86)\VSRepos\ModerUI\ModerUI\obj\Debug\ModerUI.pdb
